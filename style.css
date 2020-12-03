@@ -1,0 +1,50 @@
+body{
+   text-align: center;
+    background-color:darkred;
+}
+
+#marvel{
+  width: 175px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+
+}
+#Marvel {
+    width: 100%;
+    height: 800px;
+}
+
+.container {
+    text-align: center;
+}
+
+#myCarousel {
+    background-color: red;
+    
+}
+
+#myCarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+
+
+#myCarousel2 {
+    background-color: darkslateblue;
+    
+}
+
+#myCarousel2 img {
+    height: 300px;
+    margin-top: 35px;
+}
+.container2 {
+    text-align: center;
+}
+
+h1,h2{
+
+    font-size:30px;
+    font-family: 'Goldman', cursive;
+}
